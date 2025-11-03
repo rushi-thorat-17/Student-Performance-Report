@@ -1,4 +1,4 @@
-🧮 Student Performance Dashboard
+🧮 Student Performance Dashboard  
 📘 Project Overview:
 - The Student Performance Dashboard provides a comprehensive analysis of student academic performance.
 - It helps identify key factors influencing grades and attendance, visualize overall trends, and highlight areas for improvement through interactive visuals and insights.
